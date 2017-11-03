@@ -18,3 +18,11 @@ D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\Calcu
 D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
 D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.CoreCompileInputs.cache
 C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.exe
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.pdb
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csprojResolveAssemblyReference.cache
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Form1.resources
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.GlassButton.resources
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Properties.Resources.resources
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.GenerateResource.Cache
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
