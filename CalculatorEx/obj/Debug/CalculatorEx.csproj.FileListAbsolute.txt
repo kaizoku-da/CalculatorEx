@@ -17,3 +17,4 @@ D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\Calcu
 D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
 D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
 D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.CoreCompileInputs.cache
+C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb

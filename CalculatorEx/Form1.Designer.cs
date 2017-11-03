@@ -1,7 +1,7 @@
 ﻿namespace CalculatorEx
 {
   partial class Form1
-  {
+  {//
     /// <summary>
     /// Required designer variable.
     /// </summary>
@@ -453,7 +453,8 @@
       this.MaximizeBox = false;
       this.Name = "Form1";
       this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-      this.Text = "Calculator";
+      //Changing title to "Calculatrice"
+      this.Text = "Calculatrice";
       this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
       this.groupBox1.ResumeLayout(false);
       this.groupBox2.ResumeLayout(false);
