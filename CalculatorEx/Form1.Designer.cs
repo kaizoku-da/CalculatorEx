@@ -64,7 +64,8 @@
       this.lbResult.ForeColor = System.Drawing.Color.Navy;
       this.lbResult.Location = new System.Drawing.Point(12, 8);
       this.lbResult.Name = "lbResult";
-      this.lbResult.Size = new System.Drawing.Size(225, 225);
+      //Changing size to 1000px * 1000px
+      this.lbResult.Size = new System.Drawing.Size(1000, 1000);
       this.lbResult.TabIndex = 0;
       this.lbResult.Text = "0123456789";
       this.lbResult.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -453,8 +454,8 @@
       this.MaximizeBox = false;
       this.Name = "Form1";
       this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-      //This is a comment"
-      this.Text = "Hello World";
+      //Window calculator title changed to Hello World Calculator"
+      this.Text = "Hello World Calculator";
       this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
       this.groupBox1.ResumeLayout(false);
       this.groupBox2.ResumeLayout(false);
