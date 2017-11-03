@@ -1,0 +1,19 @@
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.exe
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.pdb
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Form1.resources
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Properties.Resources.resources
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.GlassButton.resources
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.GenerateResource.Cache
+D:\Aplicatii C#\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csprojResolveAssemblyReference.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csprojResolveAssemblyReference.cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Form1.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.GlassButton.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Properties.Resources.resources
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.GenerateResource.Cache
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
+D:\Aplicatii C# 2017\Aplicatii Diverse\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.CoreCompileInputs.cache
