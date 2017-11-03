@@ -64,7 +64,7 @@
       this.lbResult.ForeColor = System.Drawing.Color.Navy;
       this.lbResult.Location = new System.Drawing.Point(12, 8);
       this.lbResult.Name = "lbResult";
-      this.lbResult.Size = new System.Drawing.Size(225, 35);
+      this.lbResult.Size = new System.Drawing.Size(225, 225);
       this.lbResult.TabIndex = 0;
       this.lbResult.Text = "0123456789";
       this.lbResult.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
