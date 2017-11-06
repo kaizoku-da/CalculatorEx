@@ -26,3 +26,12 @@ C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.GlassBu
 C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Properties.Resources.resources
 C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.GenerateResource.Cache
 C:\Users\ut2fm9\Desktop\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.exe
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\bin\Debug\CalculatorEx.pdb
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csprojResolveAssemblyReference.cache
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Form1.resources
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.GlassButton.resources
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.Properties.Resources.resources
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.csproj.GenerateResource.Cache
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.exe
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx\obj\Debug\CalculatorEx.pdb
