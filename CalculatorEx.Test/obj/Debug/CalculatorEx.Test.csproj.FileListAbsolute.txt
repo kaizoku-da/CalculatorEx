@@ -1,0 +1,8 @@
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\bin\Debug\CalculatorEx.Test.dll
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\bin\Debug\CalculatorEx.Test.pdb
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\bin\Debug\CalculatorEx.exe
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\bin\Debug\CalculatorEx.pdb
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\obj\Debug\CalculatorEx.Test.csprojResolveAssemblyReference.cache
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\obj\Debug\CalculatorEx.Test.dll
+C:\Users\ut2fm9\PricingService\Projects\CalculatorEx\CalculatorEx.Test\obj\Debug\CalculatorEx.Test.pdb
